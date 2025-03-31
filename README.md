@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently working on computer vision and developing AI-based solver for VAWTs<br>🌱 I’m currently learning javascript and web development<br>💬 Ask me about C++, Python, Qt<br>📫 How to reach me (yazdan.abbasmosleh@gmail.com)
+I’m currently working on computer vision and developing AI-BEMT solver<br>🌱 I’m currently learning javascript and web development<br>💬 Ask me about C++, Python, Qt<br>📫 How to reach me (yazdan.abbasmosleh@gmail.com)
 
 
 ## 🌐 Socials:
