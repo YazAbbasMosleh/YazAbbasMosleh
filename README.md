@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭I’m currently working on computer vision and developing AI-BEMT solver<br>🌱 I’m currently learning LLM<br>💬 Ask me about C++, Python, Qt<br>📫 How to reach me (yazdan.abbasmosleh@gmail.com)
+🔭I’m currently working on computer vision and developing AI-BEMT solver<br>🌱 I’m currently learning YOLO and LLM<br>💬 Ask me about C++, Python, Qt<br>📫 How to reach me (yazdan.abbasmosleh@gmail.com)
 
 
 ## 🌐 Socials:
