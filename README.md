@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭I’m currently working on computer vision projects<br>🌱 I’m currently learning LLMs<br>💬 Ask me about C++, Python, Qt<br>📫 How to reach me (yazdan.abbasmosleh@gmail.com)
+🔭I’m currently working on computer vision projects and GPU optimization<br>🌱 I’m currently learning LLMs<br>💬 Ask me about C++, Python, Qt<br>📫 How to reach me (yazdan.abbasmosleh@gmail.com)
 
 
 ## 🌐 Socials:
