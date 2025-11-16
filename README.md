@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭I’m currently working on Text To Speech and Vide Management Systems(VMS)<br>🌱 I’m currently learning LLMs<br>💬 Ask me about C++, Python, TTS<br>📫 How to reach me (yazdan.abbasmosleh@gmail.com)
+🔭I’m currently working on Text To Speech and Video Management Systems(VMS)<br>🌱 I’m currently learning LLMs<br>💬 Ask me about C++, Python, TTS<br>📫 How to reach me (yazdan.abbasmosleh@gmail.com)
 
 
 ## 🌐 Socials:
