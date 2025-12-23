@@ -19,7 +19,6 @@ I am a high-performance systems developer specializing in the intersection of **
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cpp,python,qt,fastapi,postgres,docker,git,cmake,bash" height="50" />
   <img src="https://raw.githubusercontent.com/allanpk716/ChineseSubFinder/master/docs/GStreamer.svg" width="50" height="50" style="vertical-align:top; margin-left: 8px;" alt="GStreamer"/>
-  <img src="https://img.shields.io/badge/NVIDIA-DeepStream-76B900?style=for-the-badge&logo=nvidia&logoColor=white" height="50" style="vertical-align:top; margin-left: 8px;" alt="DeepStream"/>
 </p>
 
 ---
