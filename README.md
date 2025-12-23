@@ -1,33 +1,44 @@
 # Hi there, I'm Yazdan! 👋
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=yazdan-abbasmosleh&label=Profile%20views&color=0e75b6&style=flat" alt="yazdan-abbasmosleh" />
+</p>
+
 ### 👨‍💻 Software Engineer | TTS & Video Management Systems
 
-I am a developer focused on building high-performance systems. Currently, I'm bridging the gap between **VMS** and **Text-to-Speech (TTS)** while exploring **LLMs**.
+I am a high-performance systems developer specializing in the intersection of **Computer Vision** and **Audio Processing**. Currently, I am building advanced **VMS** and **TTS** solutions while integrating **LLM** capabilities.
 
-- 🔭 **Current Focus:** Text To Speech & Video Management Systems (VMS)
-- 🌱 **Learning:** Large Language Models (LLMs)
-- 💬 **Ask me about:** C++, Python, GStreamer, and TTS
+- 🔭 **Current Projects:** Text To Speech & Video Management Systems (VMS)
+- 🌱 **Learning Path:** Fine-tuning Large Language Models (LLMs)
+- 💬 **Ask me about:** C++, Python, GStreamer, and TTS engines
 - 📫 **Reach me:** [yazdan.abbasmosleh@gmail.com](mailto:yazdan.abbasmosleh@gmail.com)
 
 ---
 
 ### 💻 Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,python,qt,fastapi,postgres,docker,git,cmake,bash" />
-  <img src="https://img.shields.io/badge/GStreamer-43853D?style=for-the-badge&logo=gstreamer&logoColor=white" height="48" vertical-align="middle"/>
-  <img src="https://img.shields.io/badge/DeepStream-76B900?style=for-the-badge&logo=nvidia&logoColor=white" height="48" vertical-align="middle"/>
+  <img src="https://skillicons.dev/icons?i=cpp,python,qt,fastapi,postgres,docker,git,cmake,bash" height="50" />
+  <img src="https://raw.githubusercontent.com/allanpk716/ChineseSubFinder/master/docs/GStreamer.svg" width="50" height="50" style="vertical-align:top; margin-left: 8px;" alt="GStreamer"/>
+  <img src="https://img.shields.io/badge/NVIDIA-DeepStream-76B900?style=for-the-badge&logo=nvidia&logoColor=white" height="50" style="vertical-align:top; margin-left: 8px;" alt="DeepStream"/>
 </p>
 
 ---
 
-### 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yazdan-abbasmosleh-b77546202)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yazdan.abbasmosleh@gmail.com)
-
----
-
-### 📊 GitHub Stats
+### 📊 GitHub Statistics
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yazdan-abbasmosleh&show_icons=true&theme=tokyonight&hide_border=true" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yazdan-abbasmosleh&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 🌐 Socials & Contact
+<p align="left">
+<a href="https://linkedin.com/in/yazdan-abbasmosleh-b77546202" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:yazdan.abbasmosleh@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+<p align="center">
+  <i>"Optimizing pipelines, one frame at a time."</i>
 </p>
