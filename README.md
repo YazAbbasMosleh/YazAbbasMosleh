@@ -6,7 +6,7 @@
 
 ### 👨‍💻 AI Engineer | TTS & Video Management Systems
 
-I am a high-performance systems developer specializing in the intersection of **Computer Vision** and **Audio Processing**. Currently, I am building advanced **VMS** and **TTS** solutions while integrating **LLM** capabilities.
+I am a high-performance AI-systems developer specializing in the intersection of **Computer Vision** and **Audio Processing**. Currently, I am building advanced **VMS** and **TTS** solutions while integrating **LLM** capabilities.
 
 - 🔭 **Current Projects:** Text To Speech & Video Management Systems (VMS)
 - 🌱 **Learning Path:** Fine-tuning Large Language Models (LLMs)
