@@ -22,29 +22,18 @@ I am a high-performance AI-systems developer specializing in the intersection of
 
 ---
 
-### 🌐 Socials & Contact
-<p align="left" style="display: flex; gap: 10px;">
-  <a href="https://linkedin.com/in/yazdan-abbasmosleh-b77546202" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&label=LinkedIn" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:yazdan.abbasmosleh@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&label=Email" alt="Email"/>
-  </a>
-  <a href="https://t.me/Yazdanmosleh" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&label=Telegram" alt="Telegram"/>
-  </a>
-</p>
-
-
----
-
-### 🌐 Socials & Contact
+### 🌐 Contact & Socials
 <p align="left">
-<a href="https://linkedin.com/in/yazdan-abbasmosleh-b77546202" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:yazdan.abbasmosleh@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://t.me/Yazdanmosleh" target="blank"><img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+<a href="https://linkedin.com/in/yazdan-abbasmosleh-b77546202" target="blank">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+<a href="mailto:yazdan.abbasmosleh@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+<a href="https://t.me/Yazdanmosleh" target="blank">
+<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="48"/>
+</a>
 </p>
-
 ---
 <p align="center">
   <i>"Optimizing pipelines, one frame at a time."</i>
