@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=yazdan-abbasmosleh&label=Profile%20views&color=0e75b6&style=flat" alt="yazdan-abbasmosleh" />
 </p>
 
-### 👨‍💻 Software Engineer | TTS & Video Management Systems
+### 👨‍💻 AI Engineer | TTS & Video Management Systems
 
 I am a high-performance systems developer specializing in the intersection of **Computer Vision** and **Audio Processing**. Currently, I am building advanced **VMS** and **TTS** solutions while integrating **LLM** capabilities.
 
