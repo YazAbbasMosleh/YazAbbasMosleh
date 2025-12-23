@@ -22,11 +22,17 @@ I am a high-performance AI-systems developer specializing in the intersection of
 
 ---
 
-### 🌐 Connect with me
+### 🌐 Contact & Socials
 <p align="left">
-<a href="https://linkedin.com/in/yazdan-abbasmosleh-b77546202" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0077B5&logo=LinkedIn&logoColor=FFFFFF&label="/></a>
-<a href="mailto:yazdan.abbasmosleh@gmail.com"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Email&color=D14836&logo=Gmail&logoColor=FFFFFF&label="/></a>
-<a href="https://t.me/Yazdanmosleh" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Telegram&color=26A5E7&logo=Telegram&logoColor=FFFFFF&label="/></a>
+<a href="https://linkedin.com/in/yazdan-abbasmosleh-b77546202" target="blank">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+<a href="mailto:yazdan.abbasmosleh@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+<a href="https://t.me/Yazdanmosleh" target="blank">
+<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="48"/>
+</a>
 </p>
 
 ---
