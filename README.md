@@ -8,7 +8,7 @@
 
 I am a high-performance AI-systems developer specializing in the intersection of **Computer Vision** and **Audio Processing**. Currently, I am building advanced **VMS** and **TTS** solutions while integrating **LLM** capabilities.
 
-- 🔭 **Current Projects:** Text To Speech & Video Management Systems (VMS)
+- 🔭 **Current Projects:** Video Management Systems (VMS) and VidVibe 
 - 🌱 **Learning Path:** Fine-tuning Large Language Models (LLMs)
 - 💬 **Ask me about:** C++, Python, GStreamer, and TTS engines
 - 📫 **Reach me:** [yazdan.abbasmosleh@gmail.com](mailto:yazdan.abbasmosleh@gmail.com)
