@@ -17,8 +17,7 @@ I am a high-performance AI-systems developer specializing in the intersection of
 
 ### 💻 Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,python,qt,fastapi,postgres,docker,git,cmake,bash" height="80" />
-
+  <img src="https://skillicons.dev/icons?i=cpp,python,qt,fastapi,postgres,docker,git,cmake,bash,pytorch,keras,tensorflow" height="80" />
 </p>
 
 ---
