@@ -34,6 +34,7 @@ I am a high-performance AI-systems developer specializing in the intersection of
 <p align="left">
 <a href="https://linkedin.com/in/yazdan-abbasmosleh-b77546202" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:yazdan.abbasmosleh@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://t.me/Yazdanmosleh" target="blank"><img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </p>
 
 ---
