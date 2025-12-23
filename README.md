@@ -34,7 +34,10 @@ I am a high-performance AI-systems developer specializing in the intersection of
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="48"/>
 </a>
 </p>
+
 ---
 <p align="center">
   <i>"Optimizing pipelines, one frame at a time."</i>
 </p>
+
+---
