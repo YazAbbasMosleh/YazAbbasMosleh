@@ -22,11 +22,19 @@ I am a high-performance AI-systems developer specializing in the intersection of
 
 ---
 
-### 📊 GitHub Statistics
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YazAbbasmosleh&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YazAbbasmosleh&layout=compact&theme=tokyonight&hide_border=true" />
+### 🌐 Socials & Contact
+<p align="left" style="display: flex; gap: 10px;">
+  <a href="https://linkedin.com/in/yazdan-abbasmosleh-b77546202" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&label=LinkedIn" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:yazdan.abbasmosleh@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&label=Email" alt="Email"/>
+  </a>
+  <a href="https://t.me/Yazdanmosleh" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&label=Telegram" alt="Telegram"/>
+  </a>
 </p>
+
 
 ---
 
