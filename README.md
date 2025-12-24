@@ -39,12 +39,12 @@ I am a high-performance AI-systems developer specializing in the intersection of
   />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=YazAbbasmosleh&layout=compact&theme=tokyonight&hide_border=true"
     width="48%"
   />
-</p>
+</p> -->
 
 
 ---
