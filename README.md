@@ -18,8 +18,8 @@ I am a high-performance AI-systems developer specializing in the intersection of
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yazdan-abbasmosleh&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yazdan-abbasmosleh&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YazAbbasmosleh&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YazAbbasmosleh&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
