@@ -29,13 +29,23 @@ I am a high-performance AI-systems developer specializing in the intersection of
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YazAbbasmosleh&show_icons=true&theme=tokyonight&hide_border=true" height="200"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YazAbbasmosleh&theme=tokyonight&hide_border=true" height="200"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=YazAbbasmosleh&show_icons=true&theme=tokyonight&hide_border=true"
+    width="48%"
+  />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=YazAbbasmosleh&theme=tokyonight&hide_border=true"
+    width="48%"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YazAbbasmosleh&layout=compact&theme=tokyonight&hide_border=true" height="200"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YazAbbasmosleh&layout=compact&theme=tokyonight&hide_border=true"
+    width="48%"
+  />
 </p>
+
 
 ---
 
