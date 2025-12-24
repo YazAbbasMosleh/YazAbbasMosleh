@@ -34,7 +34,7 @@ I am a high-performance AI-systems developer specializing in the intersection of
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yazdan-abbasmosleh&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YazAbbasmosleh&layout=compact&theme=tokyonight&hide_border=true" height="400"/>
 </p>
 
 ---
