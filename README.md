@@ -15,11 +15,22 @@ I am a high-performance AI-systems developer specializing in the intersection of
 
 ---
 
+
+## 💻 Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,python,qt,fastapi,postgres,docker,git,cmake,bash,pytorch,tensorflow" height="100" />
+</p>
+
+---
+
+
+
+
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YazAbbasmosleh&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YazAbbasmosleh&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YazAbbasmosleh&show_icons=true&theme=tokyonight&hide_border=true" height="200"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YazAbbasmosleh&theme=tokyonight&hide_border=true" height="200"/>
 </p>
 
 <p align="center">
@@ -28,12 +39,6 @@ I am a high-performance AI-systems developer specializing in the intersection of
 
 ---
 
-## 💻 Tech Stack
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,python,qt,fastapi,postgres,docker,git,cmake,bash,pytorch,tensorflow" height="100" />
-</p>
-
----
 
 ## 🌐 Contact & Socials
 <p align="left">
