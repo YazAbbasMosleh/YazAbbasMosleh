@@ -30,11 +30,11 @@ I am a high-performance AI-systems developer specializing in the intersection of
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=YazAbbasmosleh&show_icons=true&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=YazAbbasMosleh&show_icons=true&theme=tokyonight&hide_border=true"
     width="48%"
   />
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=YazAbbasmosleh&theme=tokyonight&hide_border=true"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=YazAbbasMosleh&theme=tokyonight&hide_border=true"
     width="48%"
   />
 </p>
