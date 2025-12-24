@@ -49,15 +49,15 @@
 
 ---
 
-### 📊 Performance Analytics
+### 📊 Performance Metrics
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yazdan-abbasmosleh&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=yazdan-abbasmosleh&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YazAbbasMosleh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YazAbbasMosleh&theme=tokyonight&hide_border=true" />
 </p>
 
-<div align="center">
-  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yazdan-abbasmosleh&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
+<p align="center">
+  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YazAbbasmosleh&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
