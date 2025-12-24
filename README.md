@@ -8,36 +8,48 @@
 
 I am a high-performance AI-systems developer specializing in the intersection of **Computer Vision** and **Audio Processing**. Currently, I am building advanced **VMS** and **TTS** solutions while integrating **LLM** capabilities.
 
-- 🔭 **Current Projects:** Video Management Systems (VMS) and VidVibe 
-- 🌱 **Learning Path:** Fine-tuning Large Language Models (LLMs)
-- 💬 **Ask me about:** C++, Python, GStreamer, and TTS engines
+- 🔭 **Current Projects:** Video Management Systems (VMS) and VidVibe  
+- 🌱 **Learning Path:** Fine-tuning Large Language Models (LLMs)  
+- 💬 **Ask me about:** C++, Python, GStreamer, and TTS engines  
 - 📫 **Reach me:** [yazdan.abbasmosleh@gmail.com](mailto:yazdan.abbasmosleh@gmail.com)
 
 ---
 
-### 💻 Tech Stack
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yazdan-abbasmosleh&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yazdan-abbasmosleh&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yazdan-abbasmosleh&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+---
+
+## 💻 Tech Stack
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cpp,python,qt,fastapi,postgres,docker,git,cmake,bash,pytorch,tensorflow" height="100" />
 </p>
 
 ---
 
-### 🌐 Contact & Socials
+## 🌐 Contact & Socials
 <p align="left">
-  <a href="https://linkedin.com/in/yazdan-abbasmosleh-b77546202" target="blank">
+  <a href="https://linkedin.com/in/yazdan-abbasmosleh-b77546202" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
   <a href="mailto:yazdan.abbasmosleh@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
   </a>
-  <a href="https://x.com/MoslehYazd63379" target="blank">
+  <a href="https://x.com/MoslehYazd63379" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" alt="X" />
   </a>
 </p>
 
 ---
+
 <p align="center">
   <i>"Optimizing pipelines, one frame at a time."</i>
 </p>
-
----
