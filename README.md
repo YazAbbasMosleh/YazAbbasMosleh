@@ -17,6 +17,7 @@
 </div>
 
 #### 🔭 Current Trajectory
+- **Currently** Working on real-time person action detection for HSE industries
 - **Building:** [VidVibe](https://github.com/YazAbbasMosleh) — A next-gen VMS leveraging low-latency pipelines.
 - **Researching:** Optimizing **TTS Inference** on edge devices and **LLM Fine-tuning** (PEFT/LoRA).
 - **Core Stack:** High-concurrency systems using **GStreamer**, **C++**, and **TensorRT**.
