@@ -1,30 +1,46 @@
 <div align="center">
-  
-# 🌌 Yazdan Abbasmosleh
-### **AI Systems Architect | TTS & Video Management Systems**
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Location-Remote-blue?style=for-the-badge&logo=world&logoColor=white&color=121212" />
-  <img src="https://img.shields.io/badge/Stack-C++%20%2F%20Python-orange?style=for-the-badge&logo=buffer&logoColor=white&color=121212" />
-  <img src="https://img.shields.io/badge/Focus-Real--Time%20AI-green?style=for-the-badge&logo=nvidia&logoColor=white&color=121212" />
+<!-- HERO -->
+<h1>🌌 Yazdan Abbasmosleh</h1>
+<h3><em>AI Systems Architect · Real-Time AI · TTS · Video Intelligence</em></h3>
+
+<br />
+
+<!-- BADGES -->
+<p>
+  <img src="https://img.shields.io/badge/🌍%20Location-Remote-121212?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🧩%20Stack-C++%20%7C%20Python-121212?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/⚡%20Focus-Real--Time%20AI-121212?style=for-the-badge" />
 </p>
 
----
+<br />
 
-### 🧬 Profile Overview
-*Bridging the gap between high-performance hardware and intelligent software.*
+<!-- TAGLINE -->
+<p><em>
+Bridging high-performance hardware with intelligent, production-grade AI systems.
+</em></p>
 
 </div>
 
-#### 🔭 Current Trajectory
-- **Currently** Working on real-time person action detection for HSE industries
-- **Building:** [VidVibe](https://github.com/YazAbbasMosleh) — A next-gen VMS leveraging low-latency pipelines.
-- **Researching:** Optimizing **TTS Inference** on edge devices and **LLM Fine-tuning** (PEFT/LoRA).
-- **Core Stack:** High-concurrency systems using **GStreamer**, **C++**, and **TensorRT**.
+---
+
+## 🧬 Profile Snapshot
+I design and optimize **low-latency AI pipelines** that live close to the metal —  
+where **milliseconds matter**, **frames can’t drop**, and **edge devices must think fast**.
 
 ---
 
-### 🛠️ Technical Ecosystem
+## 🔭 Current Trajectory
+- 🚧 **Working on:** Real-time **person action detection** for **HSE & industrial safety**
+- 🎥 **Building:** **[VidVibe](https://github.com/YazAbbasMosleh)** — next-gen VMS with ultra-low latency pipelines
+- 🧪 **Researching:**  
+  - Edge-optimized **TTS inference**  
+  - **LLM fine-tuning** (PEFT / LoRA)
+- 🧠 **Core Strength:** High-concurrency systems with **C++**, **GStreamer**, **TensorRT**
+
+---
+
+## 🛠️ Technical Ecosystem
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,pytorch,tensorflow,qt,fastapi,postgres,docker,cmake,linux,git&theme=dark" />
 </div>
@@ -35,41 +51,50 @@
   <tr>
     <td align="center" width="33%">
       <b>🎥 Video & CV</b><br />
-      GStreamer / OpenCV / VMS
+      GStreamer · OpenCV · VMS · RTSP
     </td>
     <td align="center" width="33%">
       <b>🎙️ Audio & TTS</b><br />
-      Voice Synthesis / Audio Ops
+      Voice Synthesis · Audio Pipelines
     </td>
     <td align="center" width="33%">
       <b>🧠 AI & LLM</b><br />
-      Fine-Tuning / Optimization
+      Fine-Tuning · Optimization · Edge AI
     </td>
   </tr>
 </table>
 
 ---
 
-### 📊 Performance Metrics
+## 📊 GitHub Pulse
 <p align="center">
-  <img width="10%" src="https://github-readme-stats.vercel.app/api?username=YazAbbasMosleh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-  <img width="10%" src="https://github-readme-streak-stats.herokuapp.com/?user=YazAbbasMosleh&theme=tokyonight&hide_border=true" />
+  <img width="46%" src="https://github-readme-stats.vercel.app/api?username=YazAbbasMosleh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+  <img width="46%" src="https://github-readme-streak-stats.herokuapp.com/?user=YazAbbasMosleh&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YazAbbasmosleh&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YazAbbasMosleh&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-### 📥 Let's Connect
+## 📥 Let’s Connect
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yazdan-abbasmosleh-b77546202)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yazdan.abbasmosleh@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/MoslehYazd63379)
+<a href="https://linkedin.com/in/yazdan-abbasmosleh-b77546202">
+  <img src="https://img.shields.io/badge/LinkedIn-121212?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-<br />
+<a href="mailto:yazdan.abbasmosleh@gmail.com">
+  <img src="https://img.shields.io/badge/Email-121212?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-*"Optimizing pipelines, one frame at a time."*
+<a href="https://x.com/MoslehYazd63379">
+  <img src="https://img.shields.io/badge/Twitter-121212?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+
+<br /><br />
+
+<em>“Optimizing pipelines, one frame at a time.”</em>
+
 </div>
