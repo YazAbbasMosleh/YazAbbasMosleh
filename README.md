@@ -44,7 +44,7 @@ where **milliseconds matter**, **frames can’t drop**, and **edge devices must 
 
 ## 🛠️ Technical Ecosystem
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,pytorch,tensorflow,qt,fastapi,postgres,docker,cmake,linux,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,rust,pytorch,tensorflow,qt,fastapi,postgres,docker,cmake,linux,git&theme=dark" />
   <img src="https://cdn.simpleicons.org/nvidia/76B900" width="48" height="48" style="margin-left:6px; vertical-align:middle; border-radius:10px; background:#141414; padding:8px;" />
 </div>
 
