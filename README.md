@@ -37,7 +37,7 @@ where **milliseconds matter**, **frames can’t drop**, and **edge devices must 
 - 🧪 **Researching:**  
   - Edge-optimized **TTS inference**  
   - **LLM fine-tuning** (PEFT / LoRA)
-  - **Graph Neural Networks (GNNs) combined with Physics-Informed Neural Netorks(PINNs) for brain neurysm rupture prediction**
+  - **Graph Neural Networks (GNNs) compbined with Physics-Informed Neural Netorks(PINNs) for brain neurysm rupture detection**
 - 🧠 **Core Strength:** High-concurrency systems with **C++**, **GStreamer**, **TensorRT**
 
 ---
@@ -45,6 +45,8 @@ where **milliseconds matter**, **frames can’t drop**, and **edge devices must 
 ## 🛠️ Technical Ecosystem
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,pytorch,tensorflow,qt,fastapi,postgres,docker,cmake,linux,git&theme=dark" />
+  <br /><br />
+  <img src="https://img.shields.io/badge/CUDA-black?style=for-the-badge&logo=nvidia&logoColor=76B900" />
 </div>
 
 <br />
