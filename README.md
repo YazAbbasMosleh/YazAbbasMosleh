@@ -31,11 +31,13 @@ where **milliseconds matter**, **frames can’t drop**, and **edge devices must 
 ---
 
 ## 🔭 Current Trajectory
-- 🚧 **Working on:** Real-time **person action detection** for **HSE & industrial safety**
+- 🚧 **Working on:**fingerprint identification**
 - 🎥 **Building:** **[VidVibe](https://github.com/YazAbbasMosleh)** — next-gen VMS with ultra-low latency pipelines
+- 📚 **Learninng** **RAG systems - AI agents - MCP** and **CUDA programming** for optimization of computer vision algorithms.
 - 🧪 **Researching:**  
   - Edge-optimized **TTS inference**  
   - **LLM fine-tuning** (PEFT / LoRA)
+  - **Graph Neural Networks (GNNs) compbined with Physics-Informed Neural Netorks(PINNs) for brain neurysm rupture detection**
 - 🧠 **Core Strength:** High-concurrency systems with **C++**, **GStreamer**, **TensorRT**
 
 ---
