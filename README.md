@@ -37,7 +37,7 @@ where **milliseconds matter**, **frames can’t drop**, and **edge devices must 
 - 🧪 **Researching:**  
   - Edge-optimized **TTS inference**  
   - **LLM fine-tuning** (PEFT / LoRA)
-  - **Graph Neural Networks (GNNs) compbined with Physics-Informed Neural Netorks(PINNs) for brain neurysm rupture detection**
+  - **Graph Neural Networks (GNNs) combined with Physics-Informed Neural Netorks(PINNs) for brain neurysm rupture prediction**
 - 🧠 **Core Strength:** High-concurrency systems with **C++**, **GStreamer**, **TensorRT**
 
 ---
